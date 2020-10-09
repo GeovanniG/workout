@@ -1,0 +1,18 @@
+{
+    "workoutType": {
+        "resistance training": {
+            "exerciseType": [
+                "barbell",
+                "dumbbell",
+                "machine",
+                "cables/bands"
+            ]
+        },
+        "conditioning": {
+            "exerciseType": [
+                "cardio",
+                "HIIT"
+            ]
+        }
+    }
+}

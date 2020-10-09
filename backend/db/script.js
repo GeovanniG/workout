@@ -1,0 +1,5 @@
+PGHOST=process.env.DB_HOST
+PGUSER=process.env.DB_USER
+PGDATABASE=process.env.DB
+PGPASSWORD=process.env.DB_PASS
+PGPORT=5432
